@@ -6,4 +6,6 @@ Jogo de navinha que fizemos em 8h, na Unity, com os alunos do ICMC - USP ( https
 
 Aprenda mais sobre a Unity: https://unity3d.com/learn
 
+Projeto feito por Lucas Fonseca e Tales Sampaio
+
 Modelo 3D feito por DeNapes: https://www.blendswap.com/blends/view/75404
